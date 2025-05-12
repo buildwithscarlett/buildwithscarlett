@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi I´m Scarlett
+**Industrial Engineer | Process Optimizer | Data Enthusiast**
+
+I transform data into business value through Lean, Python, SQL, and Power BI.  
+Passionate about improving operations and solving real-world problems.
+
+🔧 **Skills**: Python, SQL, Power BI, Excel, Oracle APEX, Azure (in progress)  
+📊 **Projects**: Numerical Methods, Data Analysis, Process Optimization  
+🚀 **What I Build**: Dashboards, Simulations, Engineering Solutions
+
+Let’s connect and build something great!
 
 <!--
 **buildwithscarlett/buildwithscarlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
