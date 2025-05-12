@@ -1,4 +1,4 @@
-## Hi I´m Scarlett
+## Hi I´m Scarlett✨
 **Industrial Engineer | Process Optimizer | Data Enthusiast**
 
 I transform data into business value through Lean, Python, SQL, and Power BI.  
